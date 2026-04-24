@@ -47,15 +47,3 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Titos">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Titos&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TITOS-DEV/TITOS-DEV/output/snake.svg" alt="Snake animation" />
-
-###
