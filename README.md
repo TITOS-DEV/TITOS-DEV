@@ -10,6 +10,15 @@
 
 <div align="center">
   <h1>About me</h1>
+  <h2>Hi! I'm Jhonatán, a Software Developer from Medellín, Colombia. I build web apps using HTML, CSS, JavaScript, Node.js, SQL, and REST APIs. I'm also really into AI and automation tools like the Claude and ChatGPT APIs and n8n for workflows.
+ 
+I've built several projects, like Tidi, a personal finance app with voice input, receipt scanning, and an AI financial assistant. I'm part of JIGA, a robotics group where I learn and solve problems with others.
+ 
+I'm looking for my first role as a Junior Software Developer or AI & Automation Developer. I just want to join a good team and help build things that actually matter.</h2>
+</div>
+
+<div align="center">
+  <img src="" />
 </div>
 
 <div align="center">
