@@ -10,12 +10,8 @@
 
 <div align="center">
   <h1>About me</h1>
-  <h3>Hi! I'm Jhonatán, a Software Developer from Medellín, Colombia. I build web apps using HTML, CSS, JavaScript, Node.js, SQL, and REST APIs. I'm also really into AI and automation tools.
+  <h3>Hi! I'm Jhonatán, a Software Developer from Medellín, Colombia. I build web apps. I'm also really into AI and automation tools.
 I've built several projects, like Tidi, a personal finance app with voice input, receipt scanning, and an AI financial assistant. I'm part of JIGA, a robotics group where I learn and solve problems with others.</h3>
-</div>
-
-<div align="center">
-  <img src="" />
 </div>
 
 <div align="center">
